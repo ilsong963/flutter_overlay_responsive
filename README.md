@@ -1,3 +1,7 @@
+pubspec.yaml
+  keyboard_actions: 3.3.1+1
+  keyboard_visibility: ^0.5.6
+
 
 thanks for Ramankit Singh
 
